@@ -1,0 +1,13 @@
+table, th, td{
+    border:1px solid black;
+}
+
+/* background image */
+body{
+    background-image: url("https://i.pinimg.com/originals/ba/8c/6c/ba8c6cdaa71c7b54a86d8d142fc3763a.jpg"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
